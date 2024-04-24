@@ -1,1 +1,25 @@
-<h1>Keyboard</h1>
+<footer></footer>
+
+<ninja-keys> </ninja-keys>
+
+<script>
+    import "ninja-keys";
+
+    const ninja = document.querySelector("ninja-keys");
+
+    if (ninja != null) {
+        ninja.data = [
+            {
+                id: "print",
+                title: "Imprimir",
+                hotkey: "ctrl+P",
+                icon: "apps",
+                section: "Acciones",
+                handler: () => {
+                    // it's auto register above hotkey with this handler
+                    alert("Your logic to handle");
+                },
+            },
+        ];
+    }
+</script>
