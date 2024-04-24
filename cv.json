@@ -1,34 +1,34 @@
 {
     "basics": {
-        "name": "Miguel Ángel Durán",
+        "name": "Alejandro Serrano Herrera",
         "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
         "image": "/me.jpg",
         "email": "miduga@gmail.com",
-        "phone": "+34 688888888",
+        "phone": "+527461064677",
         "url": "https://midu.dev",
         "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
         "location": {
             "address": "",
-            "postalCode": "08820",
-            "city": "el Prat de Llobregat",
-            "countryCode": "ES",
-            "region": "España"
+            "postalCode": "73816",
+            "city": "Teziutlán, Puebla",
+            "countryCode": "MX",
+            "region": "México"
         },
         "profiles": [
             {
                 "network": "LinkedIn",
-                "username": "midudev",
-                "url": "https://linkedin.com/in/midudev"
+                "username": "serranoh93",
+                "url": "https://www.linkedin.com/in/serranoh93/"
             },
             {
                 "network": "X",
-                "username": "midudev",
-                "url": "https://x.com/midudev"
+                "username": "Alex_SerranoH",
+                "url": "https://twitter.com/Alex_SerranoH"
             },
             {
                 "network": "GitHub",
-                "username": "midudev",
-                "url": "https://github.com/midudev"
+                "username": "SerranoH93",
+                "url": "https://github.com/SerranoH93"
             }
         ]
     },
