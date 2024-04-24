@@ -1,12 +1,12 @@
 {
     "basics": {
         "name": "Alejandro Serrano Herrera",
-        "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+        "label": "Front end Developer | HTML | CSS | JavaScript | ReactJS | NodeJS | ExpressJS",
         "image": "/me.jpg",
-        "email": "miduga@gmail.com",
+        "email": "alejandro_0793@hotmail.com",
         "phone": "+527461064677",
         "url": "https://midu.dev",
-        "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+        "summary": "Me apasiona la tecnología y el diseño de experiencias digitales intuitivas y atractivas para el usuario. He invertido tiempo en aprender tecnologías front-end como HTML, CSS, JavaScript y React. Estoy en búsqueda de oportunidades para iniciar mi carrera en el desarrollo de front-end y aplicar mis habilidades en un equipo dinámico y colaborativo que valore la innovación y el aprendizaje continuo.",
         "location": {
             "address": "",
             "postalCode": "73816",
@@ -34,33 +34,23 @@
     },
     "work": [
         {
-            "name": "midudev",
-            "position": "Divulgador sobre Programación Web",
-            "url": "https://twitch.tv/midudev",
-            "startDate": "2021-01-01",
+            "name": "Cibercafé Imix",
+            "position": "Gerente general",
+            "url": "https://www.facebook.com/CiberImix/",
+            "startDate": "2019-05-01",
             "endDate": null,
-            "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+            "summary": "Gestión de personal, así como su capacitación. Elaboración de planificación de compras, cortes de caja, ejecución de horarios, todo esto de ambas sucursales que se encuentran en operación.",
             "highlights": [
                 "Started the company"
             ]
         },
         {
-            "name": "Adevinta",
-            "position": "Lead Frontend Architect",
-            "url": "https://twitch.tv/midudev",
-            "startDate": "2016-06-01",
-            "endDate": "2022-09-01",
-            "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-            "highlights": [
-                "Started the company"
-            ]
-        },
-        {
-            "name": "Hubii",
-            "position": "Senior FrontEnd Developer",
-            "startDate": "2011-03-01",
-            "endDate": "2016-05-01",
-            "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+            "name": "Stahl Werke",
+            "position": "Dibujante",
+            "url": "http://norm.com.mx/",
+            "startDate": "2018-02-12",
+            "endDate": "2019-04-01",
+            "summary": "Elaboración de planos para producción de piezas mecanicas, elaboración de calendarios de entrega de piezas de doblez láser, maquinado CNC, pavonado. Así como revisión de calidad de piezas finalizadas.",
             "highlights": [
                 "Started the company"
             ]
@@ -81,13 +71,61 @@
     ],
     "education": [
         {
-            "institution": "Universitat Oberta de Catalunya",
-            "url": "https://www.uoc.edu/portal/es/index.html",
-            "area": "Ingeniero de Software",
+            "institution": "Universidad Rosario Castellanos",
+            "url": "https://rcastellanos.cdmx.gob.mx/",
+            "area": "Licenciatura en Tecnología de la información y comunicación",
             "studyType": "Bachelor",
-            "startDate": "2003-01-01",
-            "endDate": "2009-01-01",
+            "startDate": "2022-02-03",
+            "endDate": "2026-08-01",
+            "score": "93",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        },
+        {
+            "institution": "Henry",
+            "url": "https://www.soyhenry.com/",
+            "area": "Full Stack Developer",
+            "studyType": "Bootcamp",
+            "startDate": "2023-10-15",
+            "endDate": "2024-04-26",
             "score": "4.0",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        },
+        {
+            "institution": "DEV.F",
+            "url": "https://devf.mx/promociones",
+            "area": "Front end Developer",
+            "studyType": "Bootcamp",
+            "startDate": "2023-09-01",
+            "endDate": "2024-03-01",
+            "score": "100",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        },
+        {
+            "institution": "Alura",
+            "url": "https://www.aluracursos.com/",
+            "area": "Front-end developer",
+            "studyType": "Bootcamp",
+            "startDate": "2022-11-10",
+            "endDate": "2023-05-01",
+            "score": "100",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        },        
+        {
+            "institution": "Instituto Tecnológico Superior de Poza Rica",
+            "url": "https://www.itspozarica.edu.mx/",
+            "area": "Ingeniería Mecatrónica",
+            "studyType": "Bachelor",
+            "startDate": "2014-08-01",
+            "endDate": "2018-08-01",
+            "score": "90",
             "courses": [
                 "DB1101 - Basic SQL"
             ]
@@ -157,7 +195,7 @@
             ]
         },
         {
-            "name": "TypeScript",
+            "name": "Express",
             "level": "Avanzado",
             "keywords": [
                 "Desarrollo Web",
@@ -167,7 +205,7 @@
             ]
         },
         {
-            "name": "Node",
+            "name": "Node.js",
             "level": "Avanzado",
             "keywords": [
                 "Desarrollo Web",
@@ -178,6 +216,16 @@
         },
         {
             "name": "MySQL",
+            "level": "Avanzado",
+            "keywords": [
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "name": "PosgresSQL",
             "level": "Avanzado",
             "keywords": [
                 "Bases de Datos",
@@ -206,7 +254,17 @@
             ]
         },
         {
-            "name": "Next.js",
+            "name": "GitLab",
+            "level": "Avanzado",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente",
+                "Git"
+            ]
+        },
+        {
+            "name": "Redux.js",
             "level": "Avanzado",
             "keywords": [
                 "Desarrollo Web",
@@ -254,17 +312,17 @@
     ],
     "projects": [
         {
-            "name": "mars.codes",
+            "name": "Dogs Page",
             "isActive": true,
             "description": "Historia interactiva con retos de programación para viajar a Marte",
             "highlights": [
                 "Elige tu propia aventura",
                 "En desarrollo"
             ],
-            "url": "https://mars.codes"
+            "url": "https://dogs-page-front-devf.vercel.app/"
         },
         {
-            "name": "AdventJS",
+            "name": "Rick and Morty",
             "isActive": true,
             "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
             "highlights": [
@@ -272,48 +330,28 @@
                 "Multidioma",
                 "JavaScript & TypeScript"
             ],
-            "url": "https://advent.js/dev"
+            "url": "https://only-front-rick-and-morty.vercel.app/"
         },
         {
-            "name": "Codember",
+            "name": "Ecostore",
             "isActive": true,
             "description": "Juego interactivo de programación con retos y secretos",
             "highlights": [
                 "+2000 usuarios activos",
                 "Retos para cualquier lenguaje"
             ],
-            "url": "https://codember.dev"
+            "url": "https://eco-store-umber.vercel.app/"
         },
         {
-            "name": "codi.link",
+            "name": "BataBit",
             "isActive": true,
             "description": "Playground de código HTML, CSS y JavaScript para compartir",
             "highlights": [
                 "100k visitas al mes",
                 "Desarrollado por la comunidad"
             ],
-            "url": "https://codi.link",
+            "url": "https://serranoh93.github.io/BataBIt/",
             "github": "https://github.com/midudev/codi.link"
-        },
-        {
-            "name": "Pruebas Técnicas",
-            "isActive": true,
-            "description": "Lista de pruebas técnicas de empresas para practicar programación",
-            "highlights": [
-                "100% gratuito",
-                "+500 soluciones de la comunidad"
-            ],
-            "url": "https://pruebastecnicas.com",
-            "github": "https://github.com/midudev/pruebas-tecnicas"
-        },
-        {
-            "name": "miduConf",
-            "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-            "highlights": [
-                "+15k tickets repartidos",
-                "+50k espectadores en directo"
-            ],
-            "url": "https://miduconf.com"
         }
     ]
 }
