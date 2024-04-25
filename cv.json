@@ -314,41 +314,60 @@
         {
             "name": "Dogs Page",
             "isActive": true,
-            "description": "Historia interactiva con retos de programación para viajar a Marte",
+            "description": "Pagina que consume la API de razas de perros la cual muestra su información, así como una de una base de datos",
             "highlights": [
-                "Elige tu propia aventura",
-                "En desarrollo"
+                "React",
+                "Redux",
+                "Sequelize",
+                "Express",
+                "PosgresSQL"
             ],
             "url": "https://dogs-page-front-devf.vercel.app/"
         },
         {
             "name": "Rick and Morty",
             "isActive": true,
-            "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+            "description": "Pagina creada con React, que consume la API de Rick and Morty. Se agregan aleatoriamente o por búsqueda.",
             "highlights": [
-                "+1 millón de visitas",
-                "Multidioma",
-                "JavaScript & TypeScript"
+                "React",                
+                "Express",
+                "Redux",
+                "Axios"
             ],
             "url": "https://only-front-rick-and-morty.vercel.app/"
         },
         {
+            "name": "Travel Agency",
+            "isActive": true,
+            "description": "Playground de código HTML, CSS y JavaScript para compartir",
+            "highlights": [
+                "HTML5",                
+                "CSS",
+                "Tailwind",
+                "Javascript"                
+            ],
+            "url": "https://travelagency-humo.onrender.com",
+            "github": "https://github.com/midudev/codi.link"
+        },
+        {
             "name": "Ecostore",
             "isActive": true,
-            "description": "Juego interactivo de programación con retos y secretos",
+            "description": "Landing page de venta de productos ecologicos, como muebles y articulos de cuidado personal",
             "highlights": [
-                "+2000 usuarios activos",
-                "Retos para cualquier lenguaje"
+                "HTML5",                
+                "CSS",                
+                "Javascript"   
             ],
             "url": "https://eco-store-umber.vercel.app/"
         },
         {
             "name": "BataBit",
             "isActive": true,
-            "description": "Playground de código HTML, CSS y JavaScript para compartir",
+            "description": "Landing page enfocada a manejo de cripoto monedas, mobil first",
             "highlights": [
-                "100k visitas al mes",
-                "Desarrollado por la comunidad"
+                "HTML5",                
+                "CSS",                
+                "Javascript"
             ],
             "url": "https://serranoh93.github.io/BataBIt/",
             "github": "https://github.com/midudev/codi.link"
