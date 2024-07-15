@@ -325,6 +325,23 @@
             "url": "https://dogs-page-front-devf.vercel.app/"
         },
         {
+            "name": "Moda Urbana",
+            "isActive": true,
+            "description": "Ecommerce desarrollado en conjunto con un equipo multidiciplinario, el cual cuenta con un carrito de compras, pasarala de pago, registro mediante Auth0",
+            "highlights": [
+                "Next.js",                
+                "Express",
+                "Zod",
+                "Axios",
+                "React-hook-form",
+                "Auth0",
+                "Note.js",
+                "Typescript",
+                "Javascript"
+            ],
+            "url": "https://moda-urbana-ecommerce.vercel.app/"
+        },
+        {
             "name": "Rick and Morty",
             "isActive": true,
             "description": "Pagina creada con React, que consume la API de Rick and Morty. Se agregan aleatoriamente o por búsqueda.",
