@@ -1,12 +1,12 @@
 {
     "basics": {
         "name": "Alejandro Serrano Herrera",
-        "label": "Front end Developer | HTML | CSS | JavaScript | ReactJS | NodeJS | ExpressJS",
+        "label": "Front end Developer | HTML | CSS | JavaScript | Typescript | ReactJS | NextJS | NodeJS | ExpressJS",
         "image": "/me.jpg",
         "email": "alejandro_0793@hotmail.com",
         "phone": "+527461064677",
         "url": "https://midu.dev",
-        "summary": "Me apasiona la tecnología y el diseño de experiencias digitales intuitivas y atractivas para el usuario. He invertido tiempo en aprender tecnologías front-end como HTML, CSS, JavaScript y React. Estoy en búsqueda de oportunidades para iniciar mi carrera en el desarrollo de front-end y aplicar mis habilidades en un equipo dinámico y colaborativo que valore la innovación y el aprendizaje continuo.",
+        "summary": "Con un fuerte interés en el desarrollo de front-end y back-end. Apasionado por la tecnología y el diseño de experiencias digitales intuitivas y atractivas para el usuario. Durante mi carrera universitaria, me especialicé en el diseño y construcción de sistemas mecatrónicos, lo que me brindó habilidades en análisis de datos, programación y diseño mecánico. Además, tengo experiencia en tecnologías front-end como HTML, CSS, JavaScript, Typescript y React.",
         "location": {
             "address": "",
             "postalCode": "73816",
@@ -35,10 +35,21 @@
     "work": [
         {
             "name": "Cibercafé Imix",
-            "position": "Gerente general",
-            "url": "https://www.facebook.com/CiberImix/",
-            "startDate": "2019-05-01",
+            "position": "Fullstack Developer y QA Specialist",
+            "url": "https://www.swaplyar.com/",
+            "startDate": "2023-07-17",
             "endDate": null,
+            "summary": " Migración de aplicaciones completas con experiencia en frontend y backend, utilizando tecnologías modernas como Next.js, TypeScript y Tailwind CSS. Implementación de pruebas manuales para garantizar la calidad del software. Trabajo en equipo utilizando metodologías ágiles como Scrum para asegurar entregas puntuales y eficientes.",
+            "highlights": [
+                "Started the company"
+            ]
+        },
+        {
+            "name": "Cibercafé Imix",
+            "position": "Frontend Developer",
+            "url": "https://www.facebook.com/CiberImix/",
+            "startDate": "2022-10-01",
+            "endDate": "2023-07-17",
             "summary": "Gestión de personal, así como su capacitación. Elaboración de planificación de compras, cortes de caja, ejecución de horarios, todo esto de ambas sucursales que se encuentran en operación.",
             "highlights": [
                 "Started the company"
@@ -176,6 +187,16 @@
         },
         {
             "name": "JavaScript",
+            "level": "Master",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "TypeScript",
             "level": "Master",
             "keywords": [
                 "Desarrollo Web",
